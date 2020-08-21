@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Ilya\source\repos\OpenMPLabs\OpenMPLabs\Source.cpp(41,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ilya\source\repos\OpenMPLabs\OpenMPLabs\Source.cpp(42,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  OpenMPLabs.vcxproj -> C:\Users\Ilya\source\repos\OpenMPLabs\Debug\OpenMPLabs.exe
+  Произошла одна или несколько ошибок.
+  Поток не запускается.
+C:\Users\Ilya\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(88,5): error MSB3073: выход из команды "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -noprofile -File "C:\Users\Ilya\vcpkg\scripts\buildsystems\msbuild\applocal.ps1" "C:\Users\Ilya\source\repos\OpenMPLabs\Debug\OpenMPLabs.exe" "C:\Users\Ilya\vcpkg\installed\x86-windows\debug\bin" "Debug\OpenMPLabs.tlog\OpenMPLabs.write.1u.tlog" "Debug\vcpkg.applocal.log"" с кодом 1.

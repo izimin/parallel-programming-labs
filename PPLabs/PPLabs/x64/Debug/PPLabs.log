@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ilya\source\repos\PPLabs\PPLabs\Source.cpp(79,70): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ilya\source\repos\PPLabs\PPLabs\Source.cpp(277,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PPLabs.vcxproj -> C:\Users\Ilya\source\repos\PPLabs\x64\Debug\PPLabs.exe

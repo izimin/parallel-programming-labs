@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ilya\source\repos\OpenMPLabs\OpenMPLabs\Source.cpp(41,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ilya\source\repos\OpenMPLabs\OpenMPLabs\Source.cpp(42,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  OpenMPLabs.vcxproj -> C:\Users\Ilya\source\repos\OpenMPLabs\x64\Debug\OpenMPLabs.exe
